@@ -8,4 +8,11 @@ function arrStrings() {
         console.log("today is" + " " + weekDays[week]);
     }
 }
+function dayOFWeek() {
+    let weekDays =  ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'];
+    for(let w of weekDays){
+        console.log(w);
+    }
+}
 arrStrings();
+dayOFWeek();

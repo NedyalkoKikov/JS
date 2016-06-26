@@ -69,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Arrays.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Arrays.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Arrays.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state relative-caret-position="238">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc;n#Arr#0" expanded="false" />
               </folding>
@@ -81,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayHoldingStrings.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ArrayHoldingStrings.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ArrayHoldingStrings.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            <state relative-caret-position="255">
+              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
               <folding>
                 <element signature="n#!!doc;n#arrStrings#0" expanded="false" />
               </folding>
@@ -134,8 +134,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="599" />
-    <option name="y" value="120" />
+    <option name="x" value="1020" />
+    <option name="y" value="412" />
     <option name="width" value="938" />
     <option name="height" value="674" />
   </component>
@@ -304,15 +304,15 @@
       <workItem from="1466449351764" duration="251000" />
       <workItem from="1466449636602" duration="5179000" />
       <workItem from="1466525822914" duration="36188000" />
-      <workItem from="1466949848260" duration="14389000" />
+      <workItem from="1466949848260" duration="15119000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60941000" />
+    <option name="totallyTimeSpent" value="61671000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="599" y="120" width="938" height="674" extended-state="0" />
+    <frame x="1020" y="412" width="938" height="674" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18004338" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -589,22 +589,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayHoldingStrings.js">
+    <entry file="file://$PROJECT_DIR$/Arrays.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        <state relative-caret-position="238">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding>
-            <element signature="n#!!doc;n#arrStrings#0" expanded="false" />
+            <element signature="n#!!doc;n#Arr#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Arrays.js">
+    <entry file="file://$PROJECT_DIR$/ArrayHoldingStrings.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="255">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
           <folding>
-            <element signature="n#!!doc;n#Arr#0" expanded="false" />
+            <element signature="n#!!doc;n#arrStrings#0" expanded="false" />
           </folding>
         </state>
       </provider>
