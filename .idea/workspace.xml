@@ -93,13 +93,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PushElementToList.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PushElementToList.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PushElementToList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            <state relative-caret-position="119">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding>
                 <element signature="n#!!doc;n#push#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="largest3Nums.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/largest3Nums.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="5" column="41" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <element signature="n#!!doc;n#largest3nums#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -137,6 +149,7 @@
         <option value="$PROJECT_DIR$/Arrays.js" />
         <option value="$PROJECT_DIR$/ArrayHoldingStrings.js" />
         <option value="$PROJECT_DIR$/PushElementToList.js" />
+        <option value="$PROJECT_DIR$/largest3Nums.js" />
       </list>
     </option>
   </component>
@@ -147,8 +160,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="606" />
-    <option name="y" value="256" />
+    <option name="x" value="987" />
+    <option name="y" value="405" />
     <option name="width" value="938" />
     <option name="height" value="587" />
   </component>
@@ -213,10 +226,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
-  <component name="RunManager" selected="Node.js.PushElementToList.js">
-    <configuration default="false" name="Objects.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Objects.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.largest3Nums.js">
     <configuration default="false" name="SumsByTown.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="SumsByTown.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
@@ -227,6 +237,9 @@
       <method />
     </configuration>
     <configuration default="false" name="PushElementToList.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="PushElementToList.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="largest3Nums.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="largest3Nums.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -283,19 +296,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.Objects.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.SumsByTown.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Arrays.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.ArrayHoldingStrings.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.PushElementToList.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.SumsByTown.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Arrays.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.ArrayHoldingStrings.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.PushElementToList.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.largest3Nums.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.PushElementToList.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.ArrayHoldingStrings.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.Arrays.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.SumsByTown.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.Objects.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.largest3Nums.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.PushElementToList.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.ArrayHoldingStrings.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.Arrays.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.SumsByTown.js" />
       </list>
     </recent_temporary>
   </component>
@@ -317,15 +330,15 @@
       <workItem from="1466449351764" duration="251000" />
       <workItem from="1466449636602" duration="5179000" />
       <workItem from="1466525822914" duration="36188000" />
-      <workItem from="1466949848260" duration="16540000" />
+      <workItem from="1466949848260" duration="18945000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63092000" />
+    <option name="totallyTimeSpent" value="65497000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="606" y="256" width="938" height="587" extended-state="0" />
+    <frame x="987" y="405" width="938" height="587" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18004338" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -333,7 +346,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20833333" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20833333" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -624,10 +637,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PushElementToList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        <state relative-caret-position="119">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding>
             <element signature="n#!!doc;n#push#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/largest3Nums.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="41" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#largest3nums#0" expanded="false" />
           </folding>
         </state>
       </provider>

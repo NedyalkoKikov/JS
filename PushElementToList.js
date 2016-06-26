@@ -4,6 +4,11 @@
 function push() {
    let list = [];
     list.push("pesho","gosho","stamat","unifrii");
+    list.push("klqnko");
+    list.push(22);
+    list.unshift(20);
+    
     console.log(list.join("-"));
+
 }
 push();
