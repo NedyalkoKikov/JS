@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JsExample</title>
+    <link type="text/css" rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <form>
+        <p>First Number</p>
+       <input type ="number" id ="num1" /> +
+        <p>Second Number</p>
+        <input type="number" id ="num2"/> =
+        <p>Result</p>
+        <input type="number" id="sum"/>
+        <br>
+        <input type="button" onclick="calculate()" value="Sum" id="buttonSum"/>
+    </form>
+    <script>
+        function calculate() {
+            let a = document.getElementById("num1").value;
+            let b = document.getElementById("num2").value;
+            let sum = Number(a) + Number(b);
+            document.getElementById("sum").value=sum;
+        }
+    </script>
+</body>
+</html>
+
