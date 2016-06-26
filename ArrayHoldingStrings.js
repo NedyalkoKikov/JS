@@ -20,6 +20,13 @@ function indexOfArr() {
         console.log([i]);
     }
 }
+function capitals() {
+    let capitals = ['Sofia','Washington','Berlin','London','Paris'];
+    for(let c of capitals){
+        console.log(c);
+    }
+}
 arrStrings();
 dayOFWeek();
 indexOfArr();
+capitals();
