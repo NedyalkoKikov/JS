@@ -10,6 +10,7 @@ function arrStrings() {
 }
 function dayOFWeek() {
     let weekDays =  ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'];
+    weekDays.push(new Date());
     for(let w of weekDays){
         console.log(w);
     }

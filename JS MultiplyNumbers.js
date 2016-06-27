@@ -1,8 +1,9 @@
 /**
  * Created by inktech.n.kikov on 23-Jun-16.
  */
-function multiply (a,b) {
-    return a * b;
+function multiplyNum(nums) {
+    let n = Number(nums[0]);
+    let sum = n * 2;
+    console.log(sum);
 }
-console.log(multiply(5,5));
-
+multiplyNum('2');
